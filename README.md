@@ -19,4 +19,4 @@ I have a few fun ideas for this, including but not limited to:
 If you have any ideas that would be fun/helpful, you can check the [Requesting Changes](https://github.com/Skeats/open-source-icon-set/wiki/Requesting-Changes) page, or if you would like to contribute directly you can check the [Contribution Guidelines](https://github.com/Skeats/open-source-icon-set/wiki/Contribution-Guidelines)
 
 > [!Note]
-> I do this for free, on my own, for fun. Please understand that I may not get to your issues or pull requests immediately
+> I do this for free, on my own, for fun. Please understand that I may not get to your issues or pull requests immediately.
